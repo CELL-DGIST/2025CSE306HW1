@@ -5,9 +5,9 @@
   $ git clone https://github.com/CELL-DGIST/2023CSE306HW1.git
   ```
 
-2. Go to 2023CSE306HW Directory.  
+2. Go to 2023CSE306HW1 Directory.  
   ```
-  $ cd 2023CSE306HW
+  $ cd 2023CSE306HW1
   ```
 
 3. Run `chmod` to give execute permission.  
