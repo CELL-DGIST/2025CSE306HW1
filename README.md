@@ -5,12 +5,17 @@
   $ git clone https://github.com/CELL-DGIST/2023CSE306HW1.git
   ```
 
-2. Run `chmod` to give execute permission.  
+2. Go to 2023CSE306HW Directory.  
+  ```
+  $ cd 2023CSE306HW
+  ```
+
+3. Run `chmod` to give execute permission.  
   ```
   $ chmod 755 kernelcheck
   ```
 
-3. Execute
+4. Execute
   ```
   $ ./kernelcheck
   ```
