@@ -2,12 +2,12 @@
 
 1. Clone Repository  
   ```
-  $ git clone https://github.com/CELL-DGIST/2023CSE306HW1.git
+  $ git clone https://github.com/CELL-DGIST/2024CSE306HW1.git
   ```
 
-2. Go to 2023CSE306HW1 Directory.  
+2. Go to 2024CSE306HW1 Directory.  
   ```
-  $ cd 2023CSE306HW1
+  $ cd 2024CSE306HW1
   ```
 
 3. Run `chmod` to give execute permission.  
